@@ -81,3 +81,10 @@ The frontend will be available at http://localhost:3000 by default.
 
 ### Notes: for deployment
 Make sure that ports 3000 and 8000 are available for inward traffic. Setup necessary firewall rules based on it.
+
+## Snapshots
+### API Response
+![API](API.png)
+
+### Frontend
+![frontend](frontend.png)
