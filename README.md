@@ -21,9 +21,9 @@ folder/
 
 Ensure the following tools are installed on your system:
 
-    Python 3.10+
-    pip (Python package manager)
-    Bun (JavaScript runtime) – Install Bun
+* Python 3.10+
+* pip (Python package manager)
+* Bun (JavaScript runtime) – [Install Bun](https://bun.sh/docs/installation)
 
 ### Setting Up the Project
 1. **API Setup (Backend)**
